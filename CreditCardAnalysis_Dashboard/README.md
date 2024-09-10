@@ -20,7 +20,7 @@ The dashboard will visualize transaction and customer data, allowing users to ex
 *DAX:* For creating dynamic measures and insights. 
 *ETL Processes:* To integrate data from multiple sources.  
 
-** Key Steps:**
+**KEY STEPS:**
 
 *Data Collection:*  
 Gather data from multiple sources, including transaction logs, customer databases, and financial records.
